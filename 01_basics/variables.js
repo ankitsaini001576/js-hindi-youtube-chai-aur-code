@@ -4,4 +4,5 @@ var accountPassword = "MUZAFFARNAGAR"
 
 
 // accountId = 654
-console.log(accountId);
+// console.log(accountId);
+console.table([accountEmail, accountId])
